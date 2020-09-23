@@ -44,6 +44,11 @@ p{
  width: 100px;
 }
 
+.img-color{
+ background-color: blue;
+ border-radius: 50%;
+}
+
 /* container grey */
 
 .container-grey{
