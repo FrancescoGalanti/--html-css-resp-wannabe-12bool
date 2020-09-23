@@ -34,8 +34,7 @@ p{
 .box{
  text-align: center;
  padding: 10px;
- background-color: pink;
- border: 1px solid rgba(0, 0, 0, .1);
+
 }
 
 /* Img */
@@ -48,5 +47,5 @@ p{
 /* container grey */
 
 .container-grey{
- background-color:  #8080804f;
+ background-color:  #8080801f;
 }
