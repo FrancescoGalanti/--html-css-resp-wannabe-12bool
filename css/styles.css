@@ -2,15 +2,32 @@ body{
  font-family: sans-serif;
 }
 
-h1,
-h2{
+
+
+/* Utilietis */
+
+/* tipography */
+h1{
  text-align: center;
  margin: 30px;
 }
+
+h2{
+ 
+}
+/* box */
 
 .box{
  text-align: center;
  padding: 10px;
  background-color: pink;
  border: 1px solid rgba(0, 0, 0, .1);
+}
+
+
+/* Img */
+
+.img-height{
+ height: 100px;
+ width: 100px;
 }
