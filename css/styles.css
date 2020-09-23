@@ -20,6 +20,7 @@ h1{
 
 h2{
  font-size: 25px;
+ padding-top: 15px;
 }
 
 
@@ -42,4 +43,10 @@ p{
 .img-height{
  height: 100px;
  width: 100px;
+}
+
+/* container grey */
+
+.container-grey{
+ background-color:  #8080804f;
 }

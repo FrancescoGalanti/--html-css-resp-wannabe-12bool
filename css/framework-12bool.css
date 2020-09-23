@@ -205,6 +205,12 @@
    margin-left: calc((100% / 12) * 12)
   }
 
+  /* img */
+
+  .box img{
+   height: 150px;
+   width: 150px;
+  }
 }
 
 @media screen and (min-width: 992px) {
@@ -288,5 +294,11 @@
    margin-left: calc((100% / 12) * 12)
   }
 
+
+  /* img */
+  #img-lg{
+   height: 200px;
+   width: 200px;
+  }
 
 }
